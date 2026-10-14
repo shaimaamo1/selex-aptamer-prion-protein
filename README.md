@@ -1,9 +1,13 @@
 # SELEX Aptamers for Therapeutic Targeting of Prion Protein
 
-[![Project](https://img.shields.io/badge/Project-Molecular%20Therapeutics-green?style=flat-square)](#)
-[![Aptamers](https://img.shields.io/badge/Focus-SELEX%20Aptamers-purple?style=flat-square)](#)
-[![Nanomedicine](https://img.shields.io/badge/Delivery-Nanoparticle%20Based-blue?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/Status-Research%20Proposal-brightgreen?style=flat-square)](#)
+![Project](https://img.shields.io/badge/Project-Molecular%20Therapeutics-green?style=flat-square)
+![Aptamers](https://img.shields.io/badge/Focus-SELEX%20Aptamers-purple?style=flat-square)
+![Nanomedicine](https://img.shields.io/badge/Delivery-Nanoparticle%20Based-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Research%20Proposal-brightgreen?style=flat-square)
+
+> **Status:** Academic research proposal. This repository contains a methodology overview only; it does not contain executed experiments, binding measurements, validated therapeutic results, or runnable analysis code.
+
+**Navigation:** [Aim](#aim) · [Proposed methods](#proposed-methods) · [Skills demonstrated](#skills-demonstrated) · [Project status](#project-status)
 
 ## Project Overview
 
@@ -63,7 +67,15 @@ Cellular uptake and functional evaluation
 
 ## Project Status
 
-Research proposal completed as a biomedical sciences project. This repository documents the scientific idea, methodology, and proposed experimental workflow.
+Research proposal completed as a biomedical sciences project. This repository documents the scientific idea, methodology, and proposed experimental workflow. All assays and delivery steps described above are proposed, not reported as experimentally completed.
+
+### Documentation Next Steps
+
+- Add the cited literature and original proposal with permission to publish.
+- Specify the target conformation and selection strategy in the full methods.
+- Define controls, success criteria, and limitations for each planned assay.
+
+[View the broader technical portfolio](https://github.com/shaimaamo1).
 
 ## Author
 
